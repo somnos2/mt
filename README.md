@@ -54,3 +54,13 @@ public class DemoApplication {
 
 ## 문서 내부 참조
 [문서의 처음으로 이동](#마크다운-간단-문법)
+
+# 강조
+Hello *World*  
+_Hello_ World  
+Hello **World**  
+__Hello__ world  
+~~Hello~~ World  
+
+# 이미지
+src=""
